@@ -1,3 +1,4 @@
+// @ts-ignore CSS is loaded by the bundler, not TypeScript.
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app');
